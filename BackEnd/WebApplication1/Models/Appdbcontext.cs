@@ -18,7 +18,6 @@ namespace WebApplication1.Models
             }
         }
         public DbSet<Employee> Employees { get; set; }
-        public DbSet<UserInfo> userInfos { get; set; }
     }
 
 }

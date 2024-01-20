@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vAiiwdT56qLX9H5xV336agZp02+xyyLVbAAX7rZxseUapZhKrAPlt8KLEy8R8b2/iiToZZpXWqy6W7XIBwwqhg==",
+  "dgSpecHash": "cvQ3Ef+mfrqI9X3Zylh1U9paTev1QFVbJuwtvmxYDPJ9ceeSDFFWSFbhGe8r0Uhkv5uPdyeXG4t85Ssygt7DIw==",
   "success": true,
-  "projectFilePath": "E:\\VITA\\Web Programming\\React_.net\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "E:\\MiniProject_react_.net\\BackEnd\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
